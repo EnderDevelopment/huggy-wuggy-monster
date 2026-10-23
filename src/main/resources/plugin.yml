@@ -1,0 +1,11 @@
+name: HuggyWuggy
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  huggywuggy:
+    description: Spawns the Huggy Wuggy monster.
+    usage: /huggywuggy
+  hug:
+    description: Hugs the player.
+    usage: /hug
